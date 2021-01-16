@@ -1,1 +1,1 @@
-Simple notebook on crime data in Denver
+Simple notebook on crime in Denver
